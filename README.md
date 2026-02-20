@@ -41,4 +41,6 @@ Ce projet propose un pipeline complet de maintenance prédictive, depuis l’ana
 Le modèle obtenu est performant, interprétable et prêt à être utilisé comme base pour une mise en production ou un système de surveillance.
 
 ▶️ Installation
+
 pip install -r requirements.txt
+
